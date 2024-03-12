@@ -1,6 +1,6 @@
 from AnonXMusic.plugins.tools import *
 
-wlcm = dbname["welcome"]
+wlcm = dbname["swelcome"]
 
 async def add_wlcm(chat_id : int):
     return await wlcm.insert_one({"chat_id" : chat_id})
