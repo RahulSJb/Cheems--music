@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝑪𝒉𝒆𝒆𝒎𝒔 ダ 𝑴𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 」──
+    ──「 𝑪𝒉𝒆𝒆𝒎𝒔 ダ 𝑴𝒖𝒔𝒊𝒄 」──
 
 <p align="center">
 <a href="https://github.com/AnonymousX1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
